@@ -54,13 +54,13 @@
 		</tr>
 		<tr>
 			<td valign="top">
-				<h3>API de gerenciamento de tarefas 📋</h3>
+				<h3>Microsserviços & Mensageria 🐇</h3>
         <p>
           Desafio backend da
-          <a href="https://github.com/simplify-tec/desafio-junior-backend-simplify" target="_blank"> Simplify Tecnologia</a>.
-          API desenvolvida em Java com Spring. O desafio era fazer uma To-do List com um CRUD básico
+          <a href="https://exadel.com" target="_blank"> Exadel consulting</a>.
+         O desafio era criar um cenário onde dois microsserviços se comunicavam via mensageria para responder uma chamada do frontend.
         </p>
-					<a href="https://github.com/FabioMoraiss/to-do-list-spring">
+					<a href="https://github.com/fabiomoraisdevbr/desafio-tecnico-exadel-mensageria">
 					<img src="https://img.shields.io/badge/visitar%20o%20repositório-2a2a2a?style=for-the-badge&logo=github&logoColor=white" alt="Rotas4Me">
 				</a>
 			</td>
